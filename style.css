@@ -1,0 +1,141 @@
+body{
+    text-align: justify;
+    font-size: 12px;
+    background-color: black;
+    color:white;
+    
+} 
+
+h1{
+    font-size: 20px;
+    font-weight: 800;
+    border-top: 3px solid yellow;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background-color: yellow;
+    margin-top: -10px;
+    padding-left: 3px;
+    color: black;
+}
+
+h3{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: white;
+}
+
+.bottom{
+    border-left: 3px solid yellow;
+    
+}
+
+#skate1 {
+    float: left;
+    margin-right: 3px;
+    border: 1px solid yellow;
+}
+
+#skate2 {
+    float: right;
+    margin-left: 3px;
+    border: 1px solid yellow;
+}
+
+mark{
+    color:yellow;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+a {
+   
+    color: yellow;
+    
+}
+
+blockquote{
+    font-size: 12px;
+    border-left: none;
+    border-top: 2px solid yellow;
+    border-bottom: 2px solid yellow;
+    background-color: dimgrey;
+    
+}
+
+.right-links{
+    font-size: 20px;
+    font-weight: 600;
+    list-style-image: url(img/star1.jpg);
+}
+
+.news {
+    border-left: 2px solid yellow;
+    border-right: 2px solid yellow;
+    border-bottom: 2px solid yellow;
+    margin-top: -10px;
+    margin-bottom: 88px;
+   
+}
+
+.updates {
+    border-left: 2px solid yellow;
+    border-right: 2px solid yellow;
+    border-bottom: 2px solid yellow;
+    margin-top: -20px;
+    padding-bottom: 110px;
+    padding-left: 5px;    
+}
+
+.full{
+    background-image: url(img/full2.jpg);
+    background-repeat: repeat-y;
+    background-position: center;
+}
+
+.middle {
+    background-image: url(img/middle.jpg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 50px;
+}
+
+.middle2{
+    background-image: url(img/middle2.jpg);
+    background-position: top right;
+    background-repeat: repeat-y;
+    height: 1015px;
+    width: 50px;
+}
+
+.logo{
+    background-image: url(img/title.png);
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    height: 234px;
+    width:500px;
+    margin-top: 65px;
+    margin-left: -50px;
+}
+
+footer{
+    padding-top: 20px;
+}
+
+.linklist{
+    color: gray;
+    background-image: url(img/bg.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.firstlist{
+    list-style-image: url(img/bullet.gif);
+}
